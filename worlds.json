@@ -756,6 +756,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_7f7d9740-e81c-48e4-86f9-d7690ea5e6ae",
+					"Name": "Vacuum Cleaning Simulator",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "埃と落ち葉を全部集めると何かが現れる！それとクリアタイムを写真にとってXに＃VacuumCleaningVRC と呟こう！サポートなしでクリアの場合ワールドにお名前と記録を展示します！ 同期の問題で、本気で全部集めるときは一人でやることをおすすめします。リセットありますが同期ずれなどが起こる可能性があるので新しいインスタンスをおすすめします。 Collect all the dust and fallen leaves‚ and something special will appearǃ Take a picture of it and time‚ and tweet with the hashtag ＃VacuumCleaningVRC on Xǃ If you were able to complete without support‚ your name and record will be displayed in the worldǃ Also‚ due to synchronization issues‚ we recommend being in a private instance by yourself when you're seriously trying to collect everything․ There is a reset button available‚ but since synchronization issues may occur‚ we recommend creating a new instance instead․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -1466,6 +1477,17 @@
 					"RecommendedCapacity": 20,
 					"Capacity": 40,
 					"Description": "［お知らせ］こちらは古いワールドです。最新の情報は「Gamer's BAR≺Cradle≻3号店」で更新を続けています。 Gamer's BAR Cradle は、Dblueが作成したゲームワールドを紹介するゲームワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a7c8d73b-6082-4ff9-959a-7c0fe6d0d1a7",
+					"Name": "JUST 能力麻雀（α）",
+					"RecommendedCapacity": 12,
+					"Capacity": 12,
+					"Description": "せっかくのVRなのに、普通の麻雀では物足らないあなたへ（α版です。製作中につき不具合が含まれている場合があります。見つけたら報告いただけるとうれしいです。）250307 ⁄ 悪待ち・ドラ寄せ能力が卓にいる時、悪待ち者がリーチ一発牌を引けないことがある問題を修正",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -2688,6 +2710,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_1ec4d00b-9598-4297-af3d-11236659b67a",
+					"Name": "Yamaha Motor - VR TRAIL",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "「VR TRAIL」は、静岡県周智郡森町のミリオンペタルバイクパークを再現したMTBのVRコースです。 走る楽しさを追求したスポーツ電動アシスト自転車シリーズ、「YPJ-MT Pro」「CROSSCORE RC」、や弊社のキャラクター「ニャイケン」にまたがり、本格的なトレール走行体験を楽しむことができます。 VRトレールはレーザー計測技術を用いてデジタルツインとして森林を再現しており、ダウンヒル、ジャンプ、パンプ、スピン、ドロップなど多彩なコースを提供します。 いつでもどこでも楽しめるエキサイティングなMTBライディングと森林浴を、「VR TRAIL」でお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -3655,19 +3688,2128 @@
 		{
 			"Category": "風景1",
 			"Worlds": [
-				
+				{
+					"ID": "wrld_c9f91069-5c3e-499f-a168-86fd59441ea6",
+					"Name": "New York Street",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "A simple New York styled street․ Based on Street New York by AE․ Update˸ Fixed floor collider issues and lighting․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ce2b8ad4-0d37-41d0-81f3-a01c816f77a5",
+					"Name": "Bistro",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Amazon Lumberyard Bistro‚ Open Research Content Archive （ORCA） Creative Commons CC-BY 4․0 https˸⁄⁄creativecommons․org⁄licenses⁄by⁄4․0⁄ Filamented Shader - s-ilent https˸⁄⁄gitlab․com⁄s-ilent⁄filamented",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6dd2b5f8-f8f0-4f40-9a89-15ee2695d0a9",
+					"Name": "Carnelian Town - Autumn Day",
+					"RecommendedCapacity": 30,
+					"Capacity": 40,
+					"Description": "昼・紅葉の街並みを制作しました。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7fa143f1-a3f2-4c09-9a11-409cefaaabfe",
+					"Name": "海の見える街",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "写真撮影向けに港の街と路地裏ってなんかいいよね！って作ったワールド。ベースのアセット（港周辺）に頂上広場や路地など追加しアレンジしました。 スポーン地点と頂上にはミラーとペンとjoin通知、スポーン地点付近と頂上間にワープ設置、傘はグライダーになっていて空を飛べます。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0692c4c8-8333-48bf-bd19-904d9a54f971",
+					"Name": "幻夜街-そら-",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "「そら」の夜景は幻のようだった。その街で願いを込めた。BGM˸ Breath of nature",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_bbe16f5b-3126-4447-ad17-8432160becfc",
+					"Name": "Hacker's Den",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Submerge into a 90's apartment complex‚ filled with nostalgia․ Also contains Pool Table‚ Cards‚ Beer pong and video player․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a231971b-3c5c-4a15-b620-0ab27625266a",
+					"Name": "Dracula's Castle",
+					"RecommendedCapacity": 16,
+					"Capacity": 80,
+					"Description": "A faithful fan-recreation of Dracula's Castle from Netflix's Castlevania․ Almost entirely built from scratch and optimized for VRChatǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2ef293eb-77b1-4418-9fec-d18de9247007",
+					"Name": "Shadow of the past",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "From now on‚ there will be no more compassion․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b44964d5-9f41-4719-bb0d-685f438d9d99",
+					"Name": "オモイデに沈む前に -Before It Sinks in Memories-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "「守るべき明日は笑顔と共にある」",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9857b7da-649a-4b28-b1ab-ad9b71f9323a",
+					"Name": "Little Tokyo",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "A small city with a cafe‚ bedroom and roof hangout",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_52a84f8f-a1c3-4073-a1f4-f7e6cb417e85",
+					"Name": "Aqua School",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Aqua School",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3c4ededd-6b9e-4b87-9051-e3dd08a2f13e",
+					"Name": "（Night）はるのわすれもの Charlotte's Secret Island",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "月がきれいですね。オーロラのカーテン越しに満月を見上げる。空に飛び立つスカイランタンに願いを込めて。∗∗∗∗前作「はるのわすれもの」のNight バージョンです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ef069aad-b3c9-41cb-b9d8-c09269623d41",
+					"Name": "チェリオの隣にチャリ停めまくり！",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "旅行先の愛知でチェリオの自販機を初めて見かけ、ぽこピーのチェリオ動画でピーナッツくんが「チェリオの隣にチャリ停めまくり」と言っていたのを思い出してフォトグラメトリしました。 自販機･階段･トンネル･建物はスマホやアクションカメラの動画からPolycamでモデル生成。自転車はスマホの写真からRealityCaptureでモデル生成。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_011150ce-5c70-43ce-8919-c39902c6a62a",
+					"Name": "まろの港町 -Port town-",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "【Season3․6】β版です。夏、海、お盆、花火、音声ライブ配信可（iwaSync‚ TopazChat）。Bloomを100％にしてください。リアルお盆休みが2日暇になったのでその場のノリで制作しました。This is a beta version․ Summer‚ Obon‚ Beach‚ Fireworks․ Please make Bloom 100％․Live audio streaming available （iwaSync‚ TopazChat）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_be1c0f21-e144-4976-bc1c-cbdcd8916aae",
+					"Name": "東雲ヶ埼海岸",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2142ea4d-3faf-49af-8cb1-392fcbf013cc",
+					"Name": "SARUSHIMA WORLD（メタバースヨコスカ）",
+					"RecommendedCapacity": 16,
+					"Capacity": 50,
+					"Description": "2月10日から4月7日まで、横須賀美術館「日本の巨大ロボット群像」展とメタバースヨコスカがコラボレーション！ 横須賀在住で「超時空要塞マクロス」や「宇宙戦艦ヤマト」などの作品で知られるメカニックデザイナー、宮武一貴氏のデザインした巨大ロボ「みかさ」が猿島に降り立ちます！ ［ 猿島ワールドについて ］ 東京湾の空に浮かぶ未来の「猿島」では島全体を舞台にしたゲームを楽しめます。ゲームモードはチームで得点を競うスコアマッチモードと、フラッグを相手陣地まで運ぶフラッグ戦モードの２つから選択。地形を味方につけ、霊験あらたかな猿が放つ光の玉で相手チームを押し返し、ゲームを有利に進めましょう！ メタバースヨコスカ公式Webサイト https˸⁄⁄metaverse-yokosuka․com",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_518e90cd-1643-4665-a43b-9be77db8106b",
+					"Name": "ひなげし坂_HinageshiZaka",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ひなげし坂は日本の島嶼部の田舎町をイメージして作られたワールドです。ゆっくりと夏をお過ごし下さい。HINAGESHI-ZAKA is a world imagined based on a rural town in the Japanese islands․ Please enjoy your leisurely summer there․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_020d2f7f-d586-4ded-8a70-d5245201a638",
+					"Name": "陽射しの廃駅-Abandoned station in the sunshine",
+					"RecommendedCapacity": 10,
+					"Capacity": 15,
+					"Description": "BGM˸sea no -足跡",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5a4247fb-6600-4c1b-a6b9-7d875355be69",
+					"Name": "Yayoi INAKA",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "田んぼ田んぼ BGM ˸ 夕焼け written by MATSUさん",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_05aaf547-79ad-42c9-83e1-7126db0921bb",
+					"Name": "ゆく夏の憶那-okurina-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "祭を抜け出しあなたと․․․ 。夏祭りの喧騒から離れた神社で花火を見るワールドです。hand menuから花火の音を消せます。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d8b9cfe6-2d63-49b8-bf1b-9d9f86c86696",
+					"Name": "Septembers End ［MapAWeek］ pt․24",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "（EN ｜ 日本語 ｜ español）My 24th Weekly map uploadǃ - A peaceful autum hilltop with ambient sfx‚mirrors‚scenery and moreǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_8e058ee5-0821-420a-bec6-32ef3add157a",
+					"Name": "茶屋はるどり UG_TEA",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "山に囲まれた茶屋のワールドです。お店の中に和菓子があります。クエストにも和傘追加。PC版に販売中の無限団子を追加しました。BGM˸DOVA-SYNDROME 和風のお便りコーナー 天休ひさし様 効果音˸効果音ラボ様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ea07ef57-3d8a-4c15-840a-bf946d4c072b",
+					"Name": "冬と桜の街-Winter and cherry blossom city-",
+					"RecommendedCapacity": 50,
+					"Capacity": 50,
+					"Description": "クリスマスワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_9df2dcec-5d77-4696-b0ba-40e9682c03c5",
+					"Name": "夜の逆方面行き電車 Seaside_Commuter_Night",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "早く家に帰ってVRChat行きたい。Hurry up‚ I want to go home and play VRChat․․․․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_eb8057b3-36ff-4076-ac2a-4e723259ca44",
+					"Name": "Raiti's FireWorksǃǃ",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "V4․3 1st anniversary update․ New Picture old-≻0001",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_60f27ea7-a9f0-4aca-aecd-9aba18c86ed9",
+					"Name": "Home of the Time 時のお家",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "Time goes by slowly here․＝toki no ouchi＝ v1․6 Unity 2018（Quest）update",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a7edb20f-7765-407b-8f1c-9456112b9b5c",
+					"Name": "仮想模型工房",
+					"RecommendedCapacity": 60,
+					"Capacity": 60,
+					"Description": "仮想模型工房：アバターでプラモデルの箱風テクスチャを作成できるワールド「JUST PLASTIC MODEL BOX」で作成された箱を展示しています",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b69e877b-ffec-4b6c-8167-72c149c02ba4",
+					"Name": "月見島 -Otsukimi Island-",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "月見島",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a41b7574-5c21-4228-9865-8dad3bf17e3d",
+					"Name": "夏空プロムナード -Summer sky promenade-",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "夏の夢に染まっていたいだけ․․․․․ BGM˸Sunlight⁄陽射し",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7da5c838-38e4-4ed9-9d50-e24ccc45781d",
+					"Name": "YAKATABUNEFUJI",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "夏もそろそろ終わりですね。要望などあれば＠VRCfuji1542まで！Summer is almost over․ If you have any request‚ please contact ＠VRCfuji1542ǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_39bb460b-4d71-4cb4-93c7-3281804ab73d",
+					"Name": "天の川通り 明星 -Amanogawa Street Myoujyo-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "天の川通り 明星 -Amanogawa Street Myoujyo-",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5e5b976b-a571-46c8-8dac-fd3883285b7e",
+					"Name": "藤花テラス -Fujihana Terrace-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "夏が来るね。またこいよ。 写真提供：荒神れんし様",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_47991d2e-42ef-4690-84fd-9100a5457c88",
+					"Name": "KOWLOON SHISHA NIGHT ［九龍水煙之夜］",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "九龍城砦の雰囲気に浸りながらシーシャで一服するワールドです。吸えるシーシャギミック⁄動画プレイヤー⁄睡眠用ギミック（アラーム・ナイトモード）あり。 （2024⁄5⁄7）SDK3․5․2に引き上げ。撮影補助ギミックとして、Lura's Movie Director Panel、十徳ライト２点、無減衰マイク２点を追加。ハンドメニューが開かなかったバグを修正。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_8ed4a0af-a961-4ab8-aaf2-12010ae366e9",
+					"Name": "終末駅 夕 - post apocalyptic station sunset -",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "BGM˸ 『純粋なる気持ち』 by Surara⁄すらら",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1b43b12a-332c-4f7a-b64a-3f553a6d5d90",
+					"Name": "Halation",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "概念の夏 The summer of concepts",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d048292b-42ad-4204-9372-0103d9a46f71",
+					"Name": "Gion Street - 祇園通り日本",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "今夜、祇園通りワールドにて、恒例の大晦日年越しカウントダウン花火イベントが行われます！ 今年は午前0時に星空から天の蛇が舞い降り、新年の幕開けを告げる！ 12月31日23˸59（1分前）から始まりますので、どうぞお見逃しなく！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7e0ab50b-d3af-4053-8519-fd01dd2a680e",
+					"Name": "Japanese Star Festival",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "peopledecoratebambootreeswithcolorfulpiecesofpapertoprayfororihimeandhikobopoopocometogether․itissaidthatifyouwriteyourwishonastripofpaperandhangitonabamboobranch‚yourwishwillcometrue․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_71ba0b57-c07c-4daa-af77-52ef7beaff34",
+					"Name": "七夕の茶屋はるどり",
+					"RecommendedCapacity": 17,
+					"Capacity": 80,
+					"Description": "七夕仕様の茶屋はるどり。笹と天灯があります。お団子と和菓子が食べられる山に囲まれた茶屋です。BGM˸DOVA~SYNDROME 千歳の如く すもち様 効果音˸効果音ラボ様",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_494e54a2-4a64-462e-b994-c06c834804e5",
+					"Name": "秋色の黄昏 -Autumn sparkle-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "忘れかけていたあの日の情景",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d75eb498-b5fa-42c9-aed4-1ae251f613ee",
+					"Name": "Chinatown",
+					"RecommendedCapacity": 22,
+					"Capacity": 44,
+					"Description": "Chinatown",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_afd2182f-7957-4660-8954-49c5fa096a16",
+					"Name": "懐郷の秋澄む夜 -NOSTALGIC AUTUMN NIGHT-",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "温泉と川とBBQが楽しめる！！環境音も！！！BGM˸秋風吹く庭で https˸pocket-se․infoarchives1840",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_973def6f-3150-4dbb-9845-731e46d3ad5d",
+					"Name": "咲天郷",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "そこは雲海に咲く黄昏の郷",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0f3e9e91-6295-4303-a297-8c518c069820",
+					"Name": "秋に染まる灯篭川-The lantern river dyed in autumn-",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "lantern river autumn",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7e4ab5a0-ba41-4797-ba3a-08f91bf3641a",
+					"Name": "霧月畑",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ea66dee0-005e-43cf-b62d-a9931f30c7f7",
+					"Name": "禁足地・宮野原 -sanctuary-",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "たぶん「あちら側」の場所",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ea130b45-a7bb-48d9-be16-3cced05cc794",
+					"Name": "遠鯨埠頭 onkei wharf",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "田舎の海沿いで音楽を聴きながら釣りができるワールドです。9⁄10 釣れる魚は全36種＋α 22⁄6⁄13 泳げるようになりました。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d3bf5a81-4e7e-44d5-830c-4755dfc5a0c9",
+					"Name": "Kangetsu Lake",
+					"RecommendedCapacity": 30,
+					"Capacity": 50,
+					"Description": "まだ神社が建ってなかった時代の湖。This is a lake from a time when the shrine had not yet been built․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7db264a7-0646-4275-8686-c5ecc4ff6f59",
+					"Name": "迷世屋敷 -maze house-",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "気がつくと「そこ」に居た。ここが何処なのか、どうやってここまで来たのか覚えていない",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6e5a0cf2-9ea4-4ccd-a165-c4b53d2945d1",
+					"Name": "Inokashira-kōen Station（井の頭公園駅）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Recreation of a railway station located in the city of Mitaka‚ Tokyo‚ Japan․ 東京都三鷹市井の頭三丁目にある、京王電鉄井の頭線の井の頭公園駅の再現ワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_afcf107c-5946-4c4e-93bb-8d2f83976fc2",
+					"Name": "Rain Street",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "I want to live on a street like this",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4b9682a0-6f3c-4e27-a615-508dd27c0ee8",
+					"Name": "夜更けの住宅地 ~ Late Night Residential Area",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "月明かりに照らされた、深夜の小さな公園と住宅地のワールドです。リスポーン位置隣の建物は動画プレイヤーなどの寛ぐのに必要なものが揃っています。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_94784df4-429c-421a-818f-a6ee56523a90",
+					"Name": "LQOTKEC",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "LQOTKEC",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7f4b30a6-c129-42b1-bbfe-b3f3e21d455b",
+					"Name": "konghongNeonColor",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "元々、MMD用だった自作背景モデルをVRchatに持ってきました。 使用ギミック：基本的でシンプルなUDONギミック⁄南緯74度 QvPen⁄Package Shop ＠aivrc YamaPlayer⁄yamadev Lura's Switch⁄QuickBrown Design Studio Update 2024⁄08⁄23 色変えギミック追加 2024⁄02⁄18 いくつかのギミック追加",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1c335a6f-e7b9-4b6d-bfae-17c455bc2f68",
+					"Name": "おいてけぼりの夏-Summer left behind-",
+					"RecommendedCapacity": 32,
+					"Capacity": 40,
+					"Description": "夏色が抜かれてしまった後の世界。船を操縦することもできます。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ea07b0ec-40ae-491a-b2c3-6bf78edc5da2",
+					"Name": "ヨコスカ公園≺夜明け≻ -YOKOSUKA Bayside Park≺dawn≻-",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "港の見える夜明け前の公園のワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_71c478ff-01f9-460c-9c58-01cc89dba124",
+					"Name": "春京˸ 旧八重駅 -輝桜神社- Spring Capital˸ the Former Yae Station",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "こんな所にあるとはな",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_94e1aadd-9751-427d-9b7d-3c3f29cd1b45",
+					"Name": "昭和と平成の狭間",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "昭和のヤンキー仕様 80〜90年代、昭和と平成の狭間をイメージしました。 sampleアバターペデスタル設置しました。 【ギミック類】 麻雀卓 動画プレイヤー スロット台 不具合はこちらまで X ＠syodai_quest スナック家具セット【VR向け 3Dモデル】 《（C）BellaPasta》 2025⁄02⁄22 夜に変更 街並み追加 黒ひげ危機一髪ギミック追加 qvペン調整中",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ab9658a7-f4f9-4aaf-af75-10e73fafcd74",
+					"Name": "Neo Hong Kong",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "update˸ bug fix‚ texture compression",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_eb39a7ec-8967-44d7-b5c5-6a51348ce69f",
+					"Name": "Urban Japan City",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "Welcome to recreation of a urban japanese city on vrchat‚ explore the city and find its secrets․ Update 2․0˸ Map Redesign‚ new gimmicks․ Credits to ReversedInt for the base",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0aeb453f-5583-4dea-87b2-ae75b41e5fea",
+					"Name": "Rest Area『Auto24』【終夜献呈する箱】SDK3",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Rest Area『Auto24』【終夜献呈する箱】SDK3 SDK2のリメイクです、皆様おおかげで規模拡大し敷地面積が倍以上になりました 今後ともよろしくお願いします",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_28059712-e520-41c3-89a2-a31494854788",
+					"Name": "夜の橋のある公園",
+					"RecommendedCapacity": 16,
+					"Capacity": 64,
+					"Description": "まったりと動画が見れる橋のある公園です。 20240920 - Lightmap Fix 20240922 - VRCSDK3․7․1 update",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_eaf4b0cc-84c4-4567-aec3-50dc59d7953e",
+					"Name": "海に至る道-Road to the sea",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "海に続く道を再構築。海に行けるようになりました。-The ＂Road to the Sea＂ has been rebuilt․ Now you can go to the sea․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_bf8902a6-9dd9-4cee-a561-ce48541583f4",
+					"Name": "雨上がりの午後-Afternoon after the rain-",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "午前は雨 お昼時少し晴れたけどまた曇って雨が降る ので空模様は若干怪しい、そんな感じのイメージで作られました。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5248bee3-1d01-4e2e-a772-763b383c893d",
+					"Name": "Preserved fire flower",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "第5回6hWCテーマ「夏の絵作り」で作成したワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
 			]
 		},
 		{
 			"Category": "風景2",
 			"Worlds": [
-				
+				{
+					"ID": "wrld_837a5a4c-4281-480d-bb6c-0830940a3090",
+					"Name": "Memory Terrarium",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "大切にしまい込んでいた、どこかの誰かの記憶。 ⁄⁄1weekWC「小さな世界の停車駅」参加",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_92a57be2-8d8a-4dbc-a154-9b416e7fd913",
+					"Name": "君とまた、会える日まで。",
+					"RecommendedCapacity": 3,
+					"Capacity": 3,
+					"Description": "大好きな歌",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e9efc1a9-95b7-45fe-8378-b283b8737ea3",
+					"Name": "そよかぜの箱庭 ⁄ Miniascape with a breeze",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "散歩やピクニック、木陰で昼寝をするために作りました。 Qvペン・動画プレーヤー設置。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a569033d-5679-4933-926c-e3232191e777",
+					"Name": "Rainy Cyberpunk City",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "A large cyberpunk city on a rainy night․ Features flying cars‚ Audiolink and plenty of cyberpunk art․ Designed for higher-end computers․ Potential Epilepsy Warning",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_3bfa6430-1536-45e6-a8ef-062b488aefab",
+					"Name": "雪夢島 -Snow Reverie Island-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "ゆきやこんこ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_827adca8-5fbb-4509-8409-09ac5ba487c8",
+					"Name": "星と雪の降る夜に -Starry boreal village-",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "ぬくもりをあなたに",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2f60b950-7d4b-460a-816b-16a86a4a466f",
+					"Name": "A-Ruins AREA",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「街道の途中に何かあるようだ。気になるので寄ってみよう」簡単なギミックがあるのでぜひやってみてね！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5ed1484c-238d-4e48-82f7-37f51bfd30a3",
+					"Name": "追憶の庭園 - garden of nostalgia -",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "効果音素材：ポケットサウンド – https˸⁄⁄pocket-se․info⁄ BGM˸「Spring Riverside」written by Kyaai",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b1432f59-8a5e-48fa-9d95-17b82e60c12c",
+					"Name": "Uyuni Salt Lake （re）",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_03ca2cf0-d7cb-46b7-b725-fdac5d8e1ced",
+					"Name": "Mirrored Flowers - 鏡に咲く花",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "What's on the opposite side of the huge mirror？ 鏡の向こう側には何があるのでしょうか。 20210226 Fix a bug that a portal can't be dropped on the mirror floor․ 鏡の床でポータルを出せない問題を修正しました。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_33712394-747b-4093-9d58-cd6ae86d1650",
+					"Name": "Breezing in the epilogue - 終末のそよ風",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "They had once been neighbors․ 終末は、ゆったりと風に吹かれて過ごしましょう。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3e93c5c0-5cf4-4a82-a51b-a60d9b4f33bc",
+					"Name": "L'oro Di Illyria",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "A busy coastal town with lots of areas to explore and a ship you can ride․ A recreation from Guilty Gear˸ Strive․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1f7cca2a-72f7-4373-96e8-7ee8c823a1b0",
+					"Name": "The Sanctuary Forest",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "いつか新しい道ができるまで。穏やかなこの場所で良い夢を。Until one day a new path is made․ Have a good dream in this peaceful place․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_cbc7e100-c554-4898-9f4e-06b4c2594fd1",
+					"Name": "色付く世界 UG_IRO",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "4箇所の光の柱に触れるとワールドに色がついて桜が咲きます。questの人も入れるようにしました。色変わるギミックと床の鏡像に関してはPC専用です。木を育てるギミックとパーティクルは動きます。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_fc82399d-c464-476f-b9da-ebad1af29f31",
+					"Name": "Spotlight Tunnel",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Unity公式ドキュメントよりベストプラクティスガイドとして例示されているものをVRChatワールドとして公開します。 これは誰でも参照可能で再現することが出来ます。 This World is ＂Spotlight Tunnel＂ from Unity Official Best Practice Guide․ Anyone can import this world and try it out by referring to the official documentation․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9fee4118-c0f1-4f5c-92fe-8d5f605238f6",
+					"Name": "City of Stars",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "［La La Land］ City of stars‚ are you shining just for me? City of stars‚ there's so much that I can't see․․․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4d9dd89c-afef-4a29-b4ab-be67e160cf4f",
+					"Name": "The Princess' Chamber",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "The Princess' Chamber Chamber",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ad12ab9a-6cf1-42af-b9aa-b6fd4973e290",
+					"Name": "Ricocheive",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Deep pulsation",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5d276189-aebe-4ff8-99cc-41c8da81d089",
+					"Name": "深層心理静寂のテンペスト",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "高負荷注意 作者˸ShinAqua Twitter˸＠shin_aqua",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_320b2c37-24f0-4cc1-aa17-04a3deb7ab32",
+					"Name": "The Blue Alley",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "The Blue Alley created by ayafuji",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6e51cfc8-896f-42d9-b701-80f41d7bd359",
+					"Name": "A Starry Carriage Ride",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "A Starry Carriage Ride",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d2676e10-545a-49fc-a6d9-b4e5e9510cf7",
+					"Name": "ヴィルーパ 下層 Sector 6805",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "創作グループ「観測者」の一部設定を元に作成したワールドになります。雰囲気や設定をお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a9e14a00-a9ca-4b41-a9ec-85dab6e15dc7",
+					"Name": "Light City",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "青の草木が生える黒いビル街 静寂",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_be5ee881-d34f-49d4-827d-c94dfc9dafbb",
+					"Name": "Star-Gatherers 星を釣る人",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "Won't you come and try to catch some stars？ 星を釣ってみませんか？ object˸MEAD_SRT gimmick˸chemical15 BGM 星くずベッド",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_331a75e6-bc9b-4a7c-9c8e-b25a0b932cd9",
+					"Name": "Apocalypse 末世",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "bgm˸最終兵器 - MONACA‚岡部啓一",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_8f3e660d-6608-42bf-86a3-4b1e48ce1e61",
+					"Name": "",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Good luck finding the mirror․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_f5fd8eba-fd6e-400d-87b2-043e24ad943a",
+					"Name": "Plaisir",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "I want you to be happy․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_30ee450a-778d-4baf-b10f-643acad36172",
+					"Name": "桜街 Charlotte's SAKURA City",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "桜色に染まる海辺の街。そこは優しい春の温かさが一年中あふれる場所です。P-Store新衣装『春歩きコーデ』販売記念 ＂＃春あそびフォト展＂開催中です。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_78d3531c-fb24-4e9e-9831-1e3e45a79ed0",
+					"Name": "あなたが紡いだ調の軌跡達",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "suraraさんのイメージワールドです アルバム１０個 ７４曲 私の作ったワールドskeb依頼の曲が４曲 ワールド用のBGMが１曲 パーティクルライヴが１曲 詰まってます",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2f4f9407-4027-4074-8c03-29a02cd9d061",
+					"Name": "Andron's Nature World",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "Just a simple dream-like demo nature scene with soft music and too many effects․ Work in progressǃ ソフトな音楽とエフェクトが多すぎる、単純な夢のようなデモの自然シーン․ 進行中の作業․ Update˸ Added Quest version （fx layer removed）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4bb8cbbc-cabf-46f5-b422-2ef07833b383",
+					"Name": "Analogous M［e］mories",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "Ending E",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_f7a383bc-c925-4696-85c2-2996c0a40112",
+					"Name": "Deep Blue",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Take a dip in the warm tropical shoreline‚ or swim further and explore the vast coral reefs with many species of marine life․ updated 512021",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5aad948a-296a-4b80-bd9f-b16b9e0d90c4",
+					"Name": "出航前夜 -The Night before Departure-",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "船出を翌日に控えた、期待と希望に満ちた港町をイメージしました。 A port town filled with anticipation and hope on the eve of departure․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ac1f6d13-f5d2-4f21-a351-1ae307e64126",
+					"Name": "追憶の書庫 - Library of nostalgia -",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "BGM 「大切な時間 bellVer」 by Surara⁄すらら",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_95a6565b-f0bd-43d4-87e2-cafb6ebf724d",
+					"Name": "Flowers Grand Library",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "＂Where did all the fairies go？＂",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_41c41b3e-862f-4c37-8aaa-b01efbb20e6f",
+					"Name": "流星コンチェルト -Concerto in Shooting Stars-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "奏でよう、僕らの協奏曲を。 クレジット：指揮棒「Nirv Market」様 BGM：SUMMER TRIANGLE「しゃろう」様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5bdf444c-ba67-43af-8d8c-053c29d918a9",
+					"Name": "Winter Ball",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Come celebrate the holiday season with music and a scavenger huntǃ by jar",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b4665bc8-5bc1-4542-9fdf-d7b363e480ae",
+					"Name": "Paranoia",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "I may be lonely‚ just maybe․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_8d740b03-93a4-4153-99de-9fd67d86d4ae",
+					"Name": "Sunset Retreat",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "You got dropped at the wrong bus stop but the view from the trail makes you wonder if you even could call it wrong at all․ ＂This was inspired by a peaceful dream I had․＂",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3f5fbf5f-39ff-4d57-9d08-6bdcc53e586a",
+					"Name": "Suspended Belief",
+					"RecommendedCapacity": 4,
+					"Capacity": 8,
+					"Description": "This world project has been lost and cannot be updated。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_2d9803f0-924d-407c-b92b-b0654c5afbde",
+					"Name": "Waves",
+					"RecommendedCapacity": 48,
+					"Capacity": 48,
+					"Description": "Patreon․com⁄MochieShaders",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_20b24354-d67f-4622-9415-e1d14af60639",
+					"Name": "deep fog",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "deep fog",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_f96f119c-152e-472c-9faf-585d2a660e0a",
+					"Name": "The Midnight Meadow",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "Welcome to the The Moonlit Meadow by teamepic․org （MetaverseCrew）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9da1349e-470b-47fd-a9b5-bd57d49255e2",
+					"Name": "Spirits of the Sea 海の幽霊",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "Updated 7-10-2024",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_b25aef03-b5de-402e-8c19-01b85c34bfcc",
+					"Name": "Nordic Lakehouse Home 2․0",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "Relax in a chill nordic lake house with a cozy‚ quiet environment while gazing up to the sky․ Final update˸ Rebuilt the second floor completely‚ 150 mb less build size‚ performance optimizations․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_23840d39-e115-4fcd-b9a9-d76987adb0a4",
+					"Name": "Room＼20°",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "作業場として制作したワールドです。机の上のマニュアルに操作方法があります。鬼灯はミラーがONの時消える仕様になっています。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6659afea-3459-446f-8182-024bc81fef5d",
+					"Name": "视界の门 Door",
+					"RecommendedCapacity": 5,
+					"Capacity": 10,
+					"Description": "我听到了敲门声․․․․ Should I open the door ?",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_cd6ed628-76e1-4b51-9134-c725a523dcc6",
+					"Name": "The Lab",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "This lab provides testing and pharmacy services",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_770b8274-0074-4180-9354-5854a928af07",
+					"Name": "Under the Rose 秘密のお茶会",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "水路を抜けた先に小さなバラ園があります。どうぞごゆっくりお過ごしください。BGM˸Under the Rose ～秘密のお茶会～ 作˸Atree様 Unity2019対応済 2022⁄03⁄01更新",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e4b96272-1611-4d97-8999-110f8dd723fb",
+					"Name": "りりえと謎の洋館",
+					"RecommendedCapacity": 16,
+					"Capacity": 40,
+					"Description": "りりえと謎の洋館：お人形システムを使った景観ワールドです。Lilie chan doll system",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_34693736-118a-4a1f-9b4d-95b866ed83a7",
+					"Name": "Astral Bounds",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "V1․44 - A wall to preserve the edge of the world from being filled up by reality․ Recent Update˸ Made whales slightly easier to ride․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6ffae0ba-e0c2-46b9-97e9-8b713fc46db0",
+					"Name": "海底ノ図書室",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ver․1․1 色々直しました",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_789810a1-b361-46f2-a9bf-55acecaddf8b",
+					"Name": "Summer Memory 高架下の秘密基地",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "遠い日の夏の思い出",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_baf89986-393c-4c3f-87fe-f28ae3e71ff1",
+					"Name": "友達の失恋",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "さようなら",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_00db72cc-b854-48e8-89c7-e7e121e9f4d5",
+					"Name": "Summer Vacation Island -Night-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "花火の上がる夜の海で素敵な夏の思い出を作りませんか？海には魚もいます。潜り過ぎに注意。。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_399a7a65-4d95-4937-b095-1fff98aa5c5e",
+					"Name": "Aftermath",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Music by しゅうまっちゃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4cbb124b-c9fb-4405-9eee-fdb38390a185",
+					"Name": "Dark Hallway",
+					"RecommendedCapacity": 6,
+					"Capacity": 12,
+					"Description": "Dark Hallway",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_994f3de2-4f38-40bb-a2f8-8fb2f93b86e1",
+					"Name": "-Lost-",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "BGM By Smilegate RPG ＂Lost Ark - Star Sandy Beach＂",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c5a478f6-2d19-426c-b0cc-68defbb021d5",
+					"Name": "Secret Stellar Garden",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "彼女のアイデアを元に作りました",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a339d8e7-8112-4d05-9217-690f0922ea49",
+					"Name": "The Somniel‚ Alear's Room",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "Alear's room from Fire Emblem Engage․ The resting place of the Dragon Child‚ where they slept for 1000 years․ --- Planning on doing the rest of the Somniel Hub later․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e34431c3-cfb3-40b4-a084-4d58c39874e9",
+					"Name": "Lunar Plants",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "BGM／SE˸ Maoudamasii‚ PocketSound",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0b799efb-0f6b-4a97-9858-53c2b4c8bdd0",
+					"Name": "Edge of the Universe - Hawaii˸ Part II Fan World",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A fan recreation of the album cover of Hawaii˸ Part II by ミラクルミュージカル The world soundtrack is an instrumental of the entire album",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c4d572ac-7f36-4ff7-b0e0-0dc8efdab88d",
+					"Name": "独夜ノクターン -Nocturne in Lonely Night-",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "導こう、オモイデの夜想曲で。 クレジット：指揮棒「Nirv Market」様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_75fc122b-46ad-4700-873e-f934ccd77f3a",
+					"Name": "glow pool",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "glow pool",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
 			]
 		},
 		{
 			"Category": "風景3",
 			"Worlds": [
-				
+				{
+					"ID": "wrld_0cd81e80-d749-4d1a-8f0f-a4d3addd039c",
+					"Name": "Moonlit Night Halloween",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Moonlit Halloween Photography World 月夜のハロウィン撮影ワールド。作者が怖いの苦手すぎて作ったワールドですのでホラーギミック類は一切ありません",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7a1e757d-395c-4b0b-91d7-5fea9ea67259",
+					"Name": "billls kitchen 1950s",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "1950年代アメリカ風のキッチンを目指しました、タイムトリップをご堪能くださいませ。白黒テレビに移るカメラ付です。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0a317a75-a4f9-4a1b-b695-3e0eb00a335a",
+					"Name": "Creepy House",
+					"RecommendedCapacity": 16,
+					"Capacity": 50,
+					"Description": "Creepy House",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4d0d9c56-716f-4abc-b832-63a80ab5f076",
+					"Name": "The Writers Parlor",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "A beautiful decaying mansion bathed in dusty light․ This world is for VRChat's literary community․ Contains readable books authored by group members․ More books will be added over time․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_144361dc-72b2-4535-a5b5-94821456ccd8",
+					"Name": "dreamseqs",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "dreamseqs",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_90082eb9-cde9-483c-b423-b09c1216db47",
+					"Name": "ヨゾラノムコウ1․0",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "雲の上のその先へ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_832d9724-f0a2-4506-897b-3033cfaab108",
+					"Name": "Ascension",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Ascension map skybox from Halo 2 Anniversary․ chapter 7‚ ＂supernova＂",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_25167c26-eb67-4d1b-8930-809f675a17f7",
+					"Name": "あの頃を忘れて",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "仕事終わりにタワークレーンの上から夕暮れ時の景色を眺めながら一服いかがでしょうか？ たまに雲海の下から瓦礫が浮いてきますが、お気になさらないで下さい。 もう上にいる貴方とは関係ない下の世界の話です。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_53125a74-a5c4-4e42-840e-373f390f844f",
+					"Name": "漏水地区【盃市観光エリア１号】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ふしぎ地中大都市での走行を楽しもう！！ 2度すばやく移動で加速、椅子はジャンプ長押しで降りる アリーナ内にてiwaSync3及びAudioLink使用 使用アセットは通路内の中央",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7eed1dc4-2cc5-4389-8844-ddaa42eb5aaf",
+					"Name": "aetherium void ［Echo of Ray］",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "aetherium void ［Echo of Ray］ BOOTHで販売しているVRC向けワールドaetherium void ［Echo of Ray］のサンプルワールドです。This is a sample world of the world aetherium void ［Echo of Ray］for VRC‚ which is available on BOOTH․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d2aad3fe-5d0f-45fc-9778-68c497dc5a5f",
+					"Name": "Ritual （v․1․3）",
+					"RecommendedCapacity": 1,
+					"Capacity": 20,
+					"Description": "․․․don`t ask me please․․․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_46dee0b2-c9a2-473c-9ef9-1272e6fa150d",
+					"Name": "Blue Pandora",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A huge world of pandora ‚ lots of places to go lots of places to find ‚ caves ‚ resting places ‚ houses ‚ castle ‚ First Key-Compass-Treasurechest- ․․․․․․․ ․․․ GO 5⁄02 ˸ added hooverboards to go a little faster （hidden）‚ kangoroo's and rebaked Occlusion culling",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_74682eb7-26a6-4eb6-9393-5025c22990e1",
+					"Name": "べりのたき",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "動作が重い場合は入口のミラーをOFFにして下さい",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5d9862eb-0c2c-4520-8195-8c4be647b8f9",
+					"Name": "夕凪の岬 ⁄ Cape of evening calm",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "穏やかな黄昏を迎えた世界で、静かな時をすごす",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4024c4da-e02b-4199-ad55-50a86dfb73e7",
+					"Name": "Cozy Rain Home∗",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Cozy with a bunch of rooms and optionsǃ click on the mirror for more info․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e1c81dd5-51ae-46ae-8a23-71b2f5249938",
+					"Name": "洗脳の館",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Western-style house~brainwashing~「ようこそお越しくださいました。こちらは洗脳の館でございます。」雰囲気のある洋館には実は秘密があって？ 大ホールでスイーツをお供にパーティ！美しいステンドグラスのお部屋でシーシャをお楽しみいただけます。隠し要素としてbarがございます。（ヒント˸招待状はメールボックスにあり） クレジット表記は玄関ドアからテレポートした先にございます。（ペン、ポラロイドカメラ、動画プレイヤー、BGMオンオフ、ベッドセット、ティーセット、ケーキセット、シーシャ、ドリンクギミック、カクテルギミック） 2月8日-洗脳の館の主の生誕祭",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ff559130-dcd3-46cc-9758-b4fdedf1d2c9",
+					"Name": "Orion",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "This world project has been lost and cannot be updated。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_6257ec16-9408-4771-9356-d9a9c2c16dcc",
+					"Name": "Lua Neon City",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "2020⁄7⁄13˸Quest Update",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c5c740b5-0c42-453f-96a1-471352726f2e",
+					"Name": "Summer Water Place",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "夏の日差しの中で、ゆったり過ごすための場所",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_756665a3-1488-47f2-aba9-74419d850c1e",
+					"Name": "Glory Lake",
+					"RecommendedCapacity": 24,
+					"Capacity": 48,
+					"Description": "BGM˸ Maoudamashii‚ SE˸ PocketSound",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_29917391-8f96-4fd3-b65b-cf4d2f125160",
+					"Name": "凍空の夜想曲",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "白のカーネーションの花言葉は「尊敬」「私の愛情は生きている」。 いい言葉だけど存命中の人に贈ることは避けた方が吉とのこと。 BGM˸カフェの雨音。／written by˸Yuyake Monster 様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c0715892-6bd9-4c02-85d4-5521ff68ecd4",
+					"Name": "Gravity Well",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "made with love by synth ≺3",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_fd08cccd-0a17-49bf-a4f5-51b4f4ec12bb",
+					"Name": "DATA CENTER",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "This is a data center world․ You can set up servers․ データセンターのワールドです。サーバー設置したりできます。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ae6682d9-46a4-4255-8233-65f4fdbe70db",
+					"Name": "Neon Territory",
+					"RecommendedCapacity": 18,
+					"Capacity": 48,
+					"Description": "写真撮影などにご利用下さい。 Neon World",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_b3523704-1617-435e-a66b-3126ddab000e",
+					"Name": "エクス・マキナ",
+					"RecommendedCapacity": 44,
+					"Capacity": 44,
+					"Description": "Ex Machina Iwasync（BGM用）多段ジャンプ ダッシュ機能。Music˸エルム凪_儚キ破滅ノ旋律 https˸⁄⁄erumunagi․booth․pm⁄items⁄4233664 https˸⁄⁄youtu․be⁄WJgZUKr2hmY?si＝ay_J7LEQOhrUI7qq",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_8bd5b49e-7690-4e71-8c87-15a4660ee5b3",
+					"Name": "BEBE Salon",
+					"RecommendedCapacity": 33,
+					"Capacity": 33,
+					"Description": "Sweet rooms for you _ made from scratch by BEBE CARROT",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_269327b3-c5e2-4055-8aa7-034b888ba284",
+					"Name": "Poolroom",
+					"RecommendedCapacity": 32,
+					"Capacity": 64,
+					"Description": "Small isolated poolroom‚ inspired by popular liminal space images",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_2667e495-abd3-4cb7-8eab-573956dd4a04",
+					"Name": "Isolated Champloo",
+					"RecommendedCapacity": 20,
+					"Capacity": 80,
+					"Description": "When you have no enemies․․․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_48f70688-a7a8-4252-b695-e891f845a129",
+					"Name": "時の残響－Echoes of Time",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1002795b-8657-4ac3-bdb0-7515bed967ce",
+					"Name": "青天霹靂",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "クジラって別名「勇魚（イサナ）」って言うらしいですね！かっこいい！ BGM˸resonance of time／written by˸のる 様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f2c033be-e6f2-4ec6-83a0-a61a4f6bc7ad",
+					"Name": "Color Tree",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "2023⁄1⁄04 no mirror 撮影などにお使いください Please use for filming‚ etc․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_94944b6d-d1be-479c-89d0-b401ea477db3",
+					"Name": "Freeze",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "Freeze",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ee299f71-d83e-4196-b7c8-28b492d96aaf",
+					"Name": "blend in the wind",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "blend in the wind",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5a66ebb0-4b6b-4e74-9704-c48d336b321b",
+					"Name": "夕暮れの風車-a windmill at sunset",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "10",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e09949a7-6079-48c2-a25d-13020529ea99",
+					"Name": "Twilight of the flowers ー葩々の黄昏ー",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "「ところでこの辺り、やけに花が多いわね。」",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_668f3409-d356-4d05-bbf4-00a9e650d4b6",
+					"Name": "Luminous rays",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_fa6b8749-3064-48f1-9c47-e6a9bc4bc19e",
+					"Name": "BATDR City",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Map from BATDR created by Joey Drew Studios․ Ported to VRC by Louey（me）（VRCHAT broke my mirrors so just use your own）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_0cad83fb-c835-4253-94c4-2326615d2698",
+					"Name": "終着 - Desolate",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "バス⁄雨⁄誰かの記憶",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_aaf38bf5-9aab-4b4c-b1bc-0ffcf2d56f56",
+					"Name": "Dreamy Sunset",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Dreamy Sunset",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_beceefff-0b61-441a-bd2a-86ff1d611921",
+					"Name": "flower_photostudio",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "撮影用に作成しました。写真などにどうぞ。 2023⁄10⁄12 額縁がアバターのみのカメラモードでも写ってしまう問題の修正。BGMの追加 ・使用させていただいたお花ちま屋様、bebecarrot様",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_cd4a45e2-3fe8-41e6-aa2c-10648dffa5dd",
+					"Name": "Luna Ascension",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "The Lonely sanctuary․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1c1c20c1-23a9-4ed8-84c8-6bd288cba817",
+					"Name": "Wake Up‚",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A Love Letter To My Friends Thank You For Being Around I Love You All A Lot（1 of 2）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d18af065-0686-4a65-b0b3-bc14903abe77",
+					"Name": "海浜に描いた夏 - Summer Sketches -",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "BGM˸ Chill Mix - 夏を思い出すBGM集 - Green Music produced by Zurich",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_165c71cb-1674-4b49-86d0-ab901327d0ac",
+					"Name": "Floral",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "This's my first time to make the photo booth‚ please gentle․․․ first era is Floral․․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d8f09a60-e55a-4c38-b978-edc1705173db",
+					"Name": "Of Azure‚ Stars Shine",
+					"RecommendedCapacity": 64,
+					"Capacity": 80,
+					"Description": "Per ardua ad astra․․․ （Ver․ 1․0․11）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d4d009ed-06ea-4148-b1d1-fea5206c175f",
+					"Name": "vent․",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "Small vent world made in under 50 hours․ I call it Emo Brutalism and so should you․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_99cbd94f-f412-45fa-be95-6fb2ed5c57c3",
+					"Name": "追憶の朱紅",
+					"RecommendedCapacity": 28,
+					"Capacity": 28,
+					"Description": "紅光に見るは追憶の余韻",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_493f28a8-5fc2-42af-9a5d-28f6343ec070",
+					"Name": "Methamphetamine",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "汚れた雑居ビルとその一室にあるシーシャバー、そんな感じのワールドです。It's a world of dirty‚ crowded buildings and a shisha bar in one of the rooms․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0a944993-c0c0-4ac4-9a2a-eebe84dff1ea",
+					"Name": "まるい街",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "まるい街",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e42e2ee1-1898-4857-95b6-a6dc92d646b4",
+					"Name": "撮影用治安が悪い裏路地 VCC240726",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "少し治安が悪い裏路地",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_3175143d-3c68-4719-9297-5f0145e059e2",
+					"Name": "Lost Valley Lake Retreat",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "Grab your hiking boots‚ swimming trunks and some friends for this open world experience․ Get away from your day to day stress by exploring Lost Valley Lake Retreat by foot or on our jet ski's or drivable inner tubes․ Find your perfect place to relax and just take in all the natural beauty around you․ Take stunning pictures․ Find a campsite where you can turn on night mode and relax around the campfire․ You can also use the portable video player for a movie night in the woods․ Are you ready to retreat back to nature? ∗∗March-2024 Requested Player count increase ∗∗ Not recommended to run at full capacity∗∗․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c033bf3d-f124-4600-8048-7b0a09a91af0",
+					"Name": "_backside",
+					"RecommendedCapacity": 40,
+					"Capacity": 79,
+					"Description": "RECCOMENDED WORLD VOLUME 100％‚ Put on my headphones for a special treat‚ Shaders by ＠MochieShaders‚ Ambisonic audio by ＠DJElevative․ Featuring music by Claude Debussy （Clair de lune‚ Beau Soir‚ Nuit d'etoiles）Enjoy․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_22a0e3e6-8537-45fe-9cc7-aec045ed5fc1",
+					"Name": "Wither ｜ 萎える",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Thanks for all the support everyoneǃ First release in a long while and a lot has changed so please be mindful ⁄⁄ patient with any scuff you run intoǃǃ I'll have things worked out better‚ eventually ≺3",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a38290ed-3d01-4b4d-b2ed-0c469696e139",
+					"Name": "Riri's Maison du Magus",
+					"RecommendedCapacity": 28,
+					"Capacity": 28,
+					"Description": "Riri's Maison du Magus Que la beauté de la magie parvienne à ton cœur․ 「魔法の美しさがあなたの心に届きますように」",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_689e7533-f2e4-4f7f-92ca-868a96a357a2",
+					"Name": "Charlotte's Raindrop Island 天気雨と夕焼けの港町",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "「明日はきっと晴れるから․․。」 お天気雨の降る夏の夕暮れ。地中海を臨む港町。おや、クジラが迎えに来てくれたね？猫たちも手を振っているよ。さあ、進みましょう。頬にぬくもりを感じながら。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_70a83623-aa28-42e7-9bb8-7ac24cdecc96",
+					"Name": "Event Horizon",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "isolation",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5b7f5e51-d571-425d-bcc7-bdfe84dda7f4",
+					"Name": "Flowers",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "A flower garden in a corner of virtual worlds․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6aec457a-0af9-4add-888b-81d2ae59d7ab",
+					"Name": "The Dome",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A nice lodge in a grove․․․ or is it?",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_351df354-2b6b-4728-b0ae-1ed6397fef7f",
+					"Name": "Flowery Sleep",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "第2回1weekWC参加作。お題は「小さな世界の停車駅」。 2022⁄01⁄03 Quest対応",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_d02b31a3-c5be-49cf-b94e-f8a8b833fe33",
+					"Name": "Hollow Meteor",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "BGM˸「Echo」by kico",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_dfbd5d6a-b559-4dec-8693-3509b985cbd0",
+					"Name": "最後のクリスマス-Last Christmas",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "12",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a922b8e1-2351-4c27-b370-4c7fb5dd79c3",
+					"Name": "AQUA HEAVEN - Waterpark Pool",
+					"RecommendedCapacity": 30,
+					"Capacity": 40,
+					"Description": "遊べるプールワールドを制作しました。 ウォータースライダー！流れるプール！ みんなで遊んだりのんびりしたり～！ I created a pool world where you can play․ Water slidesǃ A flowing poolǃ Everyone can play and relax~ǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_ec8a1907-eb2b-4087-8229-c4dfbd6aa3c0",
+					"Name": "眠る月想う花",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "貴方の月は綺麗ですか",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e8a29336-e021-4975-8c94-8a68bcdfc4c3",
+					"Name": "The Grove",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "grove epic",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
 			]
 		}
 	]
